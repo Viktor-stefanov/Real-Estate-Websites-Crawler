@@ -1,0 +1,20 @@
+{
+    "https://www.superimoti.bg/search/index.php?&country_id=1&stown=&mstip[]=19&mstip[]=51&mstip[]=60&maxprice_curr=3001&spredlog=innear&action=1&csel=&searchform=1&sadx=1&hmsf=1&page=": {
+        "price_sel": "div.foot.text-center > div",
+        "page_sel": "#content > section > div > div.grid-x.grid-margin-x.align-middle.font-normal > div.cell.medium-shrink > p",
+        "link_sel": "#content > section > div > div.grid-x.grid-margin-x.medium-up-2.large-up-3.align-center > div > div > a",
+        "land": ""
+    },
+    "https://www.imoti.com/prodazhbi/kashti?price1=3001&page=": {
+        "price_sel": "body > div.page > div.layout1 > div.main > div.list > div > div.title > span.price",
+        "page_sel": "body > div.page > div.layout1 > div.main > div.list > div.pageNavigation.see_more_last > div",
+        "link_sel": "body > div.page > div.layout1 > div.main > div > div.item > a",
+        "land": ""
+    },
+    "https://www.imoti.net/bg/obiavi/r/prodava/bulgaria/?sid=frIlN3&page=": {
+        "price_sel": "div.real-estate-text > header strong",
+        "page_sel": "body > div.site > main > div.wrapper.sidebar-layout.padded-bottom > div > nav > a.last-page",
+        "link_sel": "body > div.site > main > div.wrapper.sidebar-layout.padded-bottom > div > ul > li > a.box-link",
+        "land": ""
+    }
+}

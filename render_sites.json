@@ -1,0 +1,26 @@
+{
+    "https://www.imot.bg/pcgi/imot.cgi?act=3&slink=61agfm&f1=": {
+        "price_sel": "body > div:nth-child(2) > table:nth-child(4) > tbody > tr:nth-child(1) > td:nth-child(1) > table > tbody > tr:nth-child(2) > td:nth-child(2) > div",
+        "page_sel": "body > div:nth-child(2) > table:nth-child(4) > tbody > tr:nth-child(1) > td:nth-child(1) > table:nth-child(6) > tbody > tr > td:nth-child(1) > span",
+        "link_sel": "body > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(1) > table > tbody > tr:nth-child(2) > td:nth-child(2) > a.lnk1",
+        "land": ""
+    },
+    "https://www.imot.bg/pcgi/imot.cgi?act=3&slink=61agcz&f1=": {
+        "price_sel": "body > div:nth-child(2) > table:nth-child(4) > tbody > tr:nth-child(1) > td:nth-child(1) > table > tbody > tr:nth-child(2) > td:nth-child(2) > div",
+        "page_sel": "body > div:nth-child(2) > table:nth-child(4) > tbody > tr:nth-child(1) > td:nth-child(1) > table:nth-child(57) > tbody > tr > td:nth-child(1) > span",
+        "link_sel": "body > div:nth-child(2) > table > tbody > tr:nth-child(1) > td:nth-child(1) > table > tbody > tr:nth-child(2) > td:nth-child(2) > a.lnk1",
+        "land": ""
+    },
+    "http://imoti.bg/bg/adv/type:kyshta/oblast:/city:/offer_id:ID/budget:3001/currency:EUR/action:sell/page:": {
+        "price_sel": "body > div.content > div > div.center > div.center_box > div.box_middle > div.desc > div > div > p > b:nth-child(3)",
+        "page_sel": "body > div.content > div > div.center > div.center_box > div.box_middle > div.desc > div > div.pagination > a:nth-last-child(2)",
+        "link_sel": "body > div.content > div > div.center > div.center_box > div.box_middle > div.desc > div > div > a.pic",
+        "land": ""
+    },
+    "http://imoti.bg/bg/adv/type:zemedelska-zemia/oblast:/city:/offer_id:ID/budget:3001/currency:EUR/action:sell/page:": {
+        "price_sel": "body > div.content > div > div.center > div.center_box > div.box_middle > div.desc > div > div > p > b:nth-child(3)",
+        "page_sel": "body > div.content > div > div.center > div.center_box > div.box_middle > div.desc > div > div.pagination > a:nth-last-child(2)",
+        "link_sel": "body > div.content > div > div.center > div.center_box > div.box_middle > div.desc > div > div > a.pic",
+        "land": ""
+    }
+}
